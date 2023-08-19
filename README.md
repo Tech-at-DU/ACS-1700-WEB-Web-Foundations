@@ -38,8 +38,8 @@ By the end of the course, you will be able to ...
 |:-----:|:--------:|:----------|:-----------------|:-----------------|
 |  1 | Thu, Aug 17 | HTML [Semantic HTML] | [Portfolio Part 1: Semantic Markup] | - |
 |  2 | Tue, Aug 22 | HTML [HTML Attributes] | Continue portfolio | - |
-|  3 | Thu, Aug 24 | [Lab 1] | [Portfolio Part 1: Semantic Markup] Validate Portfolio | Interview Practice | 
-|  4 | Tue, Aug 29 | CSS [CSS Intro] | - | - |
+|  3 | Thu, Aug 24 | [Lab 1] | Validate Portfolio | Interview Practice | 
+|  4 | Tue, Aug 29 | CSS [CSS Intro] | [Style Your Portfolio] | - |
 |  5 | Thu, Aug 31 | CSS [CSS Box Model] | [CSS Challenges] | - |
 |  6 | Tue, Sep  5 | [Lab 2] | Continue styling portfolio | Interview Practice |
 |  7 | Thu, Sep  7 | CSS [Grid] | - | - |
