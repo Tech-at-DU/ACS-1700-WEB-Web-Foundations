@@ -36,7 +36,7 @@ By the end of the course, you will be able to ...
 
 | Class |   Date   |   Topics  |  Assignment Due  |  Assessment Due  |
 |:-----:|:--------:|:----------|:-----------------|:-----------------|
-|  1 | Thu, Aug 17 | HTML [Semantic HTML] | Start Portfolio | - |
+|  1 | Thu, Aug 17 | HTML [Semantic HTML] | [Portfolio Part 1: Semantic Markup] | - |
 |  2 | Tue, Aug 22 | HTML [HTML Attributes] | Continue portfolio | - |
 |  3 | Thu, Aug 24 | [Lab 1] | [Portfolio Part 1: Semantic Markup] Validate Portfolio | Interview Practice | 
 |  4 | Tue, Aug 29 | CSS [CSS Intro] | - | - |
