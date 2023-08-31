@@ -39,8 +39,8 @@ By the end of the course, you will be able to ...
 |  1 | Thu, Aug 17 | HTML [Semantic HTML] | [Portfolio Part 1: Semantic Markup] | - |
 |  2 | Tue, Aug 22 | HTML [HTML Attributes] | Continue portfolio | - |
 |  3 | Thu, Aug 24 | [Lab 1] | Validate Portfolio | Interview Practice | 
-|  4 | Tue, Aug 29 | CSS [CSS Intro] | [Style Your Portfolio] | - |
-|  5 | Thu, Aug 31 | CSS [CSS Box Model] | [CSS Challenges] | - |
+|  4 | Tue, Aug 29 | CSS [CSS Intro] [CSS Challenges] | [Style Your Portfolio] | - |
+|  5 | Thu, Aug 31 | CSS [CSS Box Model] [Learn Flex] | - | - |
 |  6 | Tue, Sep  5 | [Lab 2] | Continue styling portfolio | Interview Practice |
 |  7 | Thu, Sep  7 | CSS [Grid] | - | - |
 |  8 | Tue, Sep 12 | [Background Images] | [Style Your Portfolio] due! | [Lab 3] |
@@ -96,6 +96,7 @@ By the end of the course, you will be able to ...
 [Portfolio Part 1: Semantic Markup]: Assignments/01-Portfolio-Part-1-Structure.md
 [Learn Markup Level 2]: https://github.com/soggybag/learn-markup-level-2
 [CSS Challenges]: https://github.com/Tech-at-DU/CSS-Challenges
+[Learn Flex](https://github.com/soggybag/learn-css-flex-box)
 [Style Your Portfolio]: Assignments/043-CSS-Portfolio.md
 [CSS Challenges 2]: Assignments/042-CSS-Challenges-part-2.md
 [Single Page Site]: Assignments/05-Single-Page-Site.md
