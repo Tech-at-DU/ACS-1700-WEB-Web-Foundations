@@ -96,7 +96,7 @@ By the end of the course, you will be able to ...
 [Portfolio Part 1: Semantic Markup]: Assignments/01-Portfolio-Part-1-Structure.md
 [Learn Markup Level 2]: https://github.com/soggybag/learn-markup-level-2
 [CSS Challenges]: https://github.com/Tech-at-DU/CSS-Challenges
-[Learn Flex](https://github.com/soggybag/learn-css-flex-box)
+[Learn Flex]: https://github.com/soggybag/learn-css-flex-box
 [Style Your Portfolio]: Assignments/043-CSS-Portfolio.md
 [CSS Challenges 2]: Assignments/042-CSS-Challenges-part-2.md
 [Single Page Site]: Assignments/05-Single-Page-Site.md
