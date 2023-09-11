@@ -43,8 +43,8 @@ By the end of the course, you will be able to ...
 |  5 | Thu, Aug 31 | CSS [CSS Box Model] - [Learn Flex] | - | - |
 |  6 | Tue, Sep  5 | [Lab 2] | Continue styling portfolio | Interview Practice |
 |  7 | Thu, Sep  7 | CSS [Grid] | - | - |
-|  8 | Tue, Sep 12 | [Background Images] | [Style Your Portfolio] due! | [Lab 3] |
-|  9 | Thu, Sep 14 | JS [JavaScript Syntax] | [Ecommerce Tutorial] | Interview Practice |
+|  8 | Tue, Sep 12 | [Background Images] | [Style Your Portfolio] due! | - |
+|  9 | Thu, Sep 14 | JS [JavaScript Syntax] | [Ecommerce Tutorial] | [Lab 3] |
 | 10 | Tue, Sep 19 | JS [Event Listeners] | Continue ecommerce tutorial | - |
 | 11 | Thu, Sep 21 | [JS Functions] | Continue ecommerce tutorial | - |
 | 12 | Tue, Sep 26 | [Arrow Functions] | [Ecommerce Tutorial] | - |
