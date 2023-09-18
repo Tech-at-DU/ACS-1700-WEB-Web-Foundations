@@ -107,6 +107,11 @@ window.addEventListener('resize', (e) => {
       message.innerHTML = 'button "mouseover"'
     })
 
+clickMe.addEventListener('mouseout', () => {
+	// Display this message on a 'mouseout'
+	message.innerHTML = 'button "mouseout"'
+})
+
     // Add a listener for 'click' events to the button
     clickMe.addEventListener('click', () => {
       message.innerHTML = 'button "click"'
