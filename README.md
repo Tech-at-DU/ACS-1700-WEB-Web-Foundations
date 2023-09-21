@@ -48,8 +48,8 @@ By the end of the course, you will be able to ...
 | 10 | Tue, Sep 19 | JS [Event Listeners] | Continue ecommerce tutorial | - |
 | 11 | Thu, Sep 21 | [JS Functions] | Continue ecommerce tutorial | - |
 | 12 | Tue, Sep 26 | [Arrow Functions] | [Ecommerce Tutorial] | - |
-| 13 | Thu, Sep 28 | - | - | Interview Practice |
-| 14 | Tue, Oct  3 | [JS Objects] | - | Interview Practice |
+| 13 | Thu, Sep 28 | [JS Objects] | - | Interview Practice |
+| 14 | Tue, Oct  3 | - | - | Interview Practice |
 
 <!-- | 14 | Tue, Oct  4 | JS [JavaScript Objects] | [Event Delegation] | - | -->
 <!-- | 16 | Tue, Oct  4 | - | [Single Page Website] | - | -->
