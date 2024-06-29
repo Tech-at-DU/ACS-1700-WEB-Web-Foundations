@@ -36,20 +36,20 @@ By the end of the course, you will be able to ...
 
 | Class |   Date   |   Topics  |  Assignment Due  |  Assessment Due  |
 |:-----:|:--------:|:----------|:-----------------|:-----------------|
-|  1 | Thu, Aug 26 | HTML [Semantic HTML] | [Portfolio Part 1: Semantic Markup] | - |
-|  2 | Tue, Aug 28 | HTML [HTML Attributes] | Continue portfolio | - |
-|  3 | Thu, Sep  2 | [Lab 1] | Validate Portfolio | Interview Practice | 
-|  4 | Tue, Sep  4 | CSS [CSS Intro] - [CSS Challenges] | [Style Your Portfolio] | - |
-|  5 | Thu, Sep  9 | CSS [CSS Box Model] - [Learn Flex] | - | - |
-|  6 | Tue, Sep 11 | [Lab 2] | Continue styling portfolio | Interview Practice |
-|  7 | Thu, Sep 16 | CSS [Grid] | - | - |
-|  8 | Tue, Sep 18 | [Background Images] | [Style Your Portfolio] due! | - |
-|  9 | Thu, Sep 23 | JS [JavaScript Syntax], [JS Intro] | [Ecommerce Tutorial] | [Lab 3] |
-| 10 | Tue, Sep 25 | JS [Event Listeners] | Continue ecommerce tutorial | - |
-| 11 | Thu, Sep 30 | [JS Functions] | Continue ecommerce tutorial | - |
-| 12 | Tue, Oct  2 | [Arrow Functions] | [Ecommerce Tutorial] | - |
-| 13 | Thu, Oct  7 | [JS Objects] | - | Interview Practice |
-| 14 | Tue, Oct  9 | - | - | Interview Practice |
+|  1 | Mon, Aug 26 | HTML [Semantic HTML] | [Portfolio Part 1: Semantic Markup] | - |
+|  2 | Wed, Aug 28 | HTML [HTML Attributes] | Continue portfolio | - |
+|  3 | Mon, Sep  2 | Labor Day | - | - | 
+|  4 | Wed, Sep  4 | [Lab 1] | Validate Portfolio | Interview Practice |
+|  5 | Mon, Sep  9 | CSS [CSS Intro] - [CSS Challenges] | [Style Your Portfolio] | - |
+|  6 | Wed, Sep 11 | CSS [CSS Box Model] - [Learn Flex] | - | - |
+|  7 | Mon, Sep 16 | [Lab 2] | Continue styling portfolio | Interview Practice |
+|  8 | Wed, Sep 18 | CSS [Grid] | - | -  |
+|  9 | Mon, Sep 23 | [Background Images] | [Style Your Portfolio] due! | - |
+| 10 | Wed, Sep 25 | JS [JavaScript Syntax], [JS Intro] | [Ecommerce Tutorial] | [Lab 3] |
+| 11 | Mon, Sep 30 | JS [Event Listeners] | Continue ecommerce tutorial | -  |
+| 12 | Wed, Oct  2 | [JS Functions] | Continue ecommerce tutorial | - |
+| 13 | Mon, Oct  7 | [Arrow Functions] | [Ecommerce Tutorial] | - |
+| 14 | Wed, Oct  9 | [JS Objects] | - | Interview Practice |
 
 <!-- | 14 | Tue, Oct  4 | JS [JavaScript Objects] | [Event Delegation] | - | -->
 <!-- | 16 | Tue, Oct  4 | - | [Single Page Website] | - | -->
