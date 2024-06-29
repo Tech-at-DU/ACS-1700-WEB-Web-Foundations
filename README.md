@@ -36,18 +36,25 @@ By the end of the course, you will be able to ...
 
 | Class |   Date   |   Topics  |  Assignment Due  |  Assessment Due  |
 |:-----:|:--------:|:----------|:-----------------|:-----------------|
+| -  | **Week 1** | - | - | - |
 |  1 | Mon, Aug 26 | HTML [Semantic HTML] | [Portfolio Part 1: Semantic Markup] | - |
 |  2 | Wed, Aug 28 | HTML [HTML Attributes] | Continue portfolio | - |
+| -  | **Week 2** | - | - | - |
 |  3 | Mon, Sep  2 | Labor Day | - | - | 
 |  4 | Wed, Sep  4 | [Lab 1] | Validate Portfolio | Interview Practice |
+| -  | **Week 3** | - | - | - |
 |  5 | Mon, Sep  9 | CSS [CSS Intro] - [CSS Challenges] | [Style Your Portfolio] | - |
 |  6 | Wed, Sep 11 | CSS [CSS Box Model] - [Learn Flex] | - | - |
+| -  | **Week 4** | - | - | - |
 |  7 | Mon, Sep 16 | [Lab 2] | Continue styling portfolio | Interview Practice |
 |  8 | Wed, Sep 18 | CSS [Grid] | - | -  |
+| -  | **Week 5** | - | - | - |
 |  9 | Mon, Sep 23 | [Background Images] | [Style Your Portfolio] due! | - |
 | 10 | Wed, Sep 25 | JS [JavaScript Syntax], [JS Intro] | [Ecommerce Tutorial] | [Lab 3] |
+| -  | **Week 6** | - | - | - |
 | 11 | Mon, Sep 30 | JS [Event Listeners] | Continue ecommerce tutorial | -  |
 | 12 | Wed, Oct  2 | [JS Functions] | Continue ecommerce tutorial | - |
+| -  | **Week 7** | - | - | - |
 | 13 | Mon, Oct  7 | [Arrow Functions] | [Ecommerce Tutorial] | - |
 | 14 | Wed, Oct  9 | [JS Objects] | - | Interview Practice |
 
