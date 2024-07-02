@@ -141,6 +141,8 @@ If you have an extenuating circumstance such as prolonged illness, please reach 
 
 Class recordings will be available [here](https://docs.google.com/document/d/12ACry7MDrAS3UJzid6zDeoP-AqAc3z1rIWIFRKEecnE/edit#). For privacy reasons, please do not share the recordings outside of the Make School student body. -->
 
+<!-- 
+
 ## Academic Honesty Policy
 
 At Make School, we highly encourage collaboration between students on assignments. Working with other people is the best way to learn!
@@ -160,6 +162,8 @@ We take academic honesty very seriously at Make School. The consequences for vio
 - The incident will be added to your permanent record at Make School and you may be placed on a Participation Improvement Plan (PIP).
 
 For subsequent offenses, more serious consequences may be considered. For more information, please see [Make School's academic honesty policy](https://make.sc/academic-honesty-policy).
+
+-->
 
 <!-- ## Information Resources
 
