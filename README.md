@@ -96,7 +96,7 @@ By the end of the course, you will be able to ...
 [Ecommerce Tutorial]: https://github.com/Tech-at-DU/ecommerce-tutorial
 
 <!-- Quizzes -->
-[**Quiz 1**]: Assessments/quiz-1-study-guide.md
+[**Quiz 1**]: Assessments/quiz-1-study-guide.m
 [**Quiz 2**]: Assessments/quiz-2-study-guide.md
 [**Quiz 3**]: Assessments/quiz-3-study-guide.md
 
