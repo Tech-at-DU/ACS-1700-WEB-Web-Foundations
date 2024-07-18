@@ -102,3 +102,15 @@ By the end of the course, you will be able to ...
 
 ## Evaluation
 **To pass this course, you must**: 
+
+
+<!-- 
+
+Changes: 
+
+- Needs new assignments 
+  - html assignment using semantic concepts
+  - CSS assignment 
+  - JS assignment 
+
+ -->
