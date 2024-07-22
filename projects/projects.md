@@ -16,7 +16,6 @@
 - Mood Shop Tutorial - https://github.com/Tech-at-DU/ecommerce-tutorial
 - Single Page Tutorial - https://github.com/Tech-at-DU/single-page-starter
 - Custom Calculator - https://github.com/Tech-at-DU/ACS-1700-Web-Foundations/blob/master/Assignments/11-Custom-Calculator.md
-- 
 
 
 ## Exercises 
@@ -34,4 +33,5 @@
 - JS Practice - 3 points https://github.com/Tech-at-DU/js-practice/blob/main/index.html
 - Event Listeners Lab - 3 points https://github.com/Tech-at-DU/event-listener-intro/blob/main/readme.md
 - Lab 4 - https://github.com/Tech-at-DU/ACS-1700-Web-Foundations/blob/master/Lessons/04-lab.md
-- 
+- Functions Lab - 3 Points https://github.com/Tech-at-DU/js-functions
+- JS Functions 2 - https://github.com/Tech-at-DU/js-functions-2/tree/main
