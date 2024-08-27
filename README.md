@@ -100,11 +100,11 @@ By the end of the course, you will be able to ...
 [**Quiz 2**]: Assessments/quiz-2-study-guide.md
 [**Quiz 3**]: Assessments/quiz-3-study-guide.md
 
+<!-- 
+
 ## Evaluation
 **To pass this course, you must**: 
 
-
-<!-- 
 
 Changes: 
 
