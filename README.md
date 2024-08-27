@@ -19,9 +19,9 @@ By the end of the course, you will be able to ...
 1. Use JavaScript to create dynamic content and handle user interactions in your web applications
 
 ## Schedule
-**Course Dates:** Monday, August 26 – Wednesday, October 11, 2024
+**Course Dates:** Tuesday, August 27 – Thursday, October 10, 2024
 
-**Class Times:** Monday and Wednesday 9:30 AM to 12:15 PM
+**Class Times:** Tuesday and Thursday 1:00 PM to 3:45 PM
 
 | Class |   Date   |   Topics  |  Assignment Due  |  Assessment Due  |
 |:-----:|:--------:|:----------|:-----------------|:-----------------|
