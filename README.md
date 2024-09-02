@@ -23,17 +23,17 @@ By the end of the course, you will be able to ...
 
 **Class Times:** Tuesday and Thursday 1:00 PM to 3:45 PM
 
-| Class |   Date   |   Topics  |  Assignment Due  |  Assessment Due  |
+| Class |   Date   |   Topics  |  Assignment  |  Assignment Due  |
 |:-----:|:--------:|:----------|:-----------------|:-----------------|
 | -  | **Week 1** | - | - | - |
 |  1 | Tue, Aug 27 | HTML [Semantic HTML] | [Portfolio Part 1: Semantic Markup] | - |
 |  2 | Thu, Aug 29 | HTML [HTML Attributes] | Continue portfolio | - |
 | -  | **Week 2** | - | - | - |
-|  3 | Tue, Sep  3 | Labor Day | - | - | 
-|  4 | Thu, Sep  5 | [Lab 1] | Validate Portfolio | Interview Practice |
+|  3 | Tue, Sep  3 | [Lab 1] | Validate Portfolio | Interview Practice | - | 
+|  4 | Thu, Sep  5 | CSS [CSS Intro] - [CSS Challenges] | [Style Your Portfolio] | - |
 | -  | **Week 3** | - | - | - |
-|  5 | Tue, Sep 10 | CSS [CSS Intro] - [CSS Challenges] | [Style Your Portfolio] | - |
-|  6 | Thu, Sep 12 | CSS [CSS Box Model] - [Learn Flex] | - | - |
+|  5 | Tue, Sep 10 | CSS [CSS Box Model] | - | - |
+|  6 | Thu, Sep 12 | [Learn Flex] | - | - |
 | -  | **Week 4** | - | - | - |
 |  7 | Tue, Sep 17 | [Lab 2] | Continue styling portfolio | Interview Practice |
 |  8 | Thu, Sep 19 | CSS [Grid] | - | -  |
