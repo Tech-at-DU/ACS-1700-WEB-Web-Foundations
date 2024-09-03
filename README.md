@@ -25,12 +25,12 @@ By the end of the course, you will be able to ...
 
 | Class |   Date   |   Topics  |  Assignment  |  Assignment Due  |
 |:-----:|:--------:|:----------|:-----------------|:-----------------|
-| -  | **Week 1** | - | - | - |
+| -  | **Week 1** HTML | - | - | - |
 |  1 | Tue, Aug 27 | HTML [Semantic HTML] | [Portfolio Part 1: Semantic Markup] | - |
 |  2 | Thu, Aug 29 | HTML [HTML Attributes] | Continue portfolio | - |
-| -  | **Week 2** | - | - | - |
-|  3 | Tue, Sep  3 | [Lab 1] | Validate Portfolio | Interview Practice | - | 
-|  4 | Thu, Sep  5 | CSS [CSS Intro] - [CSS Challenges] | [Style Your Portfolio] | - |
+| -  | **Week 2** CSS | - | - | - |
+|  3 | Tue, Sep  3 | [CSS Intro] | [Lab 1] Validate Portfolio | Interview Practice | - | 
+|  4 | Thu, Sep  5 | [CSS Challenges] | [Style Your Portfolio] | - |
 | -  | **Week 3** | - | - | - |
 |  5 | Tue, Sep 10 | CSS [CSS Box Model] | - | - |
 |  6 | Thu, Sep 12 | [Learn Flex] | - | - |
