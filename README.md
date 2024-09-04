@@ -29,14 +29,14 @@ By the end of the course, you will be able to ...
 |  1 | Tue, Aug 27 | HTML [Semantic HTML] | [Portfolio Part 1: Semantic Markup] | - |
 |  2 | Thu, Aug 29 | HTML [HTML Attributes] | Continue portfolio | - |
 | -  | **Week 2** CSS | - | - | - |
-|  3 | Tue, Sep  3 | [CSS Intro] | [Lab 1] Validate Portfolio | Interview Practice | - | 
+|  3 | Tue, Sep  3 | [CSS Intro] | Validate Portfolio | Interview Practice [Lab 1]  | 
 |  4 | Thu, Sep  5 | [CSS Box Model] | [Style Your Portfolio] | - |
 | -  | **Week 3** | - | - | - |
 |  5 | Tue, Sep 10 | [Learn Flex] | - | - |
-|  6 | Thu, Sep 12 | [Lab 2] | - | - |
+|  6 | Thu, Sep 12 | - | - | - |
 | -  | **Week 4** | - | - | - |
-|  7 | Tue, Sep 17 | - | Continue styling portfolio | Interview Practice |
-|  8 | Thu, Sep 19 | CSS [Grid] | - | -  |
+|  7 | Tue, Sep 17 | CSS [Grid] | Continue styling portfolio | Interview Practice [Lab 2] |
+|  8 | Thu, Sep 19 |  | - | -  |
 | -  | **Week 5** | - | - | - |
 |  9 | Tue, Sep 24 | [Background Images] | [Style Your Portfolio] due! | - |
 | 10 | Thu, Sep 26 | JS [JavaScript Syntax], [JS Intro] | [Ecommerce Tutorial] | [Lab 3] |
@@ -110,6 +110,11 @@ By the end of the course, you will be able to ...
 - [Lab 1] You should have marked up one of these examples. 
 - [Beginning CSS Challenges](https://github.com/Tech-at-DU/CSS-Challenges) (find this on slide 21 of [CSS Intro])
 - [CSS Diner](https://flukeout.github.io) Learn about CSS Selectors by playing this game. (Find this on slide 32 of [CSS Intro])
+- [Explore the box model](https://tech-at-du.github.io/ACS-1700-Web-Foundations/box-model.html) (find this on slide 9 of [CSS Box Model])
+- [Explore CSS Flex Box](https://tech-at-du.github.io/ACS-1700-Web-Foundations/flex-box.html) (find this on slide 37 of [CSS Box Model])
+- [Flex Box Challenges](https://github.com/soggybag/learn-css-flex-box) (find this on slide 37 of [CSS Box Model])
+- [Style Your Portfolio] Submit this to Gradescope.com
+- [Lab 2] Practice your CSS skills
 - 
 
 <!-- 
