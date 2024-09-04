@@ -39,7 +39,7 @@ By the end of the course, you will be able to ...
 |  8 | Thu, Sep 19 |  | - | -  |
 | -  | **Week 5** | - | - | - |
 |  9 | Tue, Sep 24 | [Background Images] | [Style Your Portfolio] due! | - |
-| 10 | Thu, Sep 26 | JS [JavaScript Syntax], [JS Intro] | [Ecommerce Tutorial] | [Lab 3] |
+| 10 | Thu, Sep 26 | JS [JavaScript Syntax], [JS Intro] | [Ecommerce Tutorial] | Interview Practice [Lab 3] |
 | -  | **Week 6** | - | - | - |
 | 11 | Tue, Oct  1  | JS [Event Listeners] | Continue ecommerce tutorial | -  |
 | 12 | Thu, Oct  3 | [JS Functions] | Continue ecommerce tutorial | - |
