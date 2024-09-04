@@ -47,6 +47,23 @@ By the end of the course, you will be able to ...
 | 13 | Tue, Oct  8 | [Arrow Functions] | [Ecommerce Tutorial] | - |
 | 14 | Thu, Oct 10 | [JS Objects] | - | Interview Practice |
 
+## Work to be completed
+
+- Markup Practice: [Rules of Writing Haiku](https://github.com/soggybag/learn-semantic-markup/blob/master/challenge-1.html) (Find this on slide 10 of lesson 1: [Semantic HTML])
+- [HTML Elements Exploration Worksheet](https://docs.google.com/document/d/1Y-w24-826bm-L_xOTwh2KsrJZ1bgK2DU36g4OiJvk7I/edit) Create a copy, complete the worksheet, and submit a link to your copy on Gradescope.com. Be sure to "share" your document! (Find this on slide 38 of lesson 1: [Semantic HTML])
+- [Portfolio Part 1: Semantic Markup] - Follow the instructions and submit this on Gradescope.com
+- [Markup Practice](https://github.com/soggybag/learn-markup-level-2) (find this on slide 11, 24, and 34 of [HTML Attributes])
+- [Lab 1] You should have marked up one of these examples. 
+- [Beginning CSS Challenges](https://github.com/Tech-at-DU/CSS-Challenges) (find this on slide 21 of [CSS Intro])
+- [CSS Diner](https://flukeout.github.io) Learn about CSS Selectors by playing this game. (Find this on slide 32 of [CSS Intro])
+- [Explore the box model](https://tech-at-du.github.io/ACS-1700-Web-Foundations/box-model.html) (find this on slide 9 of [CSS Box Model])
+- [Explore CSS Flex Box](https://tech-at-du.github.io/ACS-1700-Web-Foundations/flex-box.html) (find this on slide 37 of [CSS Box Model])
+- [Flex Box Challenges](https://github.com/soggybag/learn-css-flex-box) (find this on slide 37 of [CSS Box Model])
+- [Style Your Portfolio] Submit this to Gradescope.com
+- [Lab 2] Practice your CSS skills
+- 
+
+
 <!-- Lessons -->
 [Semantic HTML]: https://docs.google.com/presentation/d/1WEp028oiQTRA9Euz9owhxgvgQbXF3wFSR48Qdskcbns/edit?usp=sharing
 [HTML Attributes]: https://docs.google.com/presentation/d/1rA7yEzSz7k9vkpOj2kJmKXvTabp7gxrzbuqSJs__pVc/edit?usp=sharing
@@ -99,24 +116,6 @@ By the end of the course, you will be able to ...
 [**Quiz 1**]: Assessments/quiz-1-study-guide.m
 [**Quiz 2**]: Assessments/quiz-2-study-guide.md
 [**Quiz 3**]: Assessments/quiz-3-study-guide.md
-
-
-## Work to be completed
-
-- Markup Practice: [Rules of Writing Haiku](https://github.com/soggybag/learn-semantic-markup/blob/master/challenge-1.html) (Find this on slide 10 of lesson 1: [Semantic HTML])
-- [HTML Elements Exploration Worksheet](https://docs.google.com/document/d/1Y-w24-826bm-L_xOTwh2KsrJZ1bgK2DU36g4OiJvk7I/edit) Create a copy, complete the worksheet, and submit a link to your copy on Gradescope.com. Be sure to "share" your document! (Find this on slide 38 of lesson 1: [Semantic HTML])
-- [Portfolio Part 1: Semantic Markup] - Follow the instructions and submit this on Gradescope.com
-- [Markup Practice](https://github.com/soggybag/learn-markup-level-2) (find this on slide 11, 24, and 34 of [HTML Attributes])
-- [Lab 1] You should have marked up one of these examples. 
-- [Beginning CSS Challenges](https://github.com/Tech-at-DU/CSS-Challenges) (find this on slide 21 of [CSS Intro])
-- [CSS Diner](https://flukeout.github.io) Learn about CSS Selectors by playing this game. (Find this on slide 32 of [CSS Intro])
-- [Explore the box model](https://tech-at-du.github.io/ACS-1700-Web-Foundations/box-model.html) (find this on slide 9 of [CSS Box Model])
-- [Explore CSS Flex Box](https://tech-at-du.github.io/ACS-1700-Web-Foundations/flex-box.html) (find this on slide 37 of [CSS Box Model])
-- [Flex Box Challenges](https://github.com/soggybag/learn-css-flex-box) (find this on slide 37 of [CSS Box Model])
-- [Style Your Portfolio] Submit this to Gradescope.com
-- [Lab 2] Practice your CSS skills
-- 
-
 <!-- 
 
 ## Evaluation
