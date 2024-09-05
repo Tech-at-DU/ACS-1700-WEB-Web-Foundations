@@ -36,7 +36,7 @@ By the end of the course, you will be able to ...
 |  6 | Thu, Sep 12 | CSS [Grid] | - | Interview Practice [Lab 2] |
 | -  | **Week 4** Javascript | - | - | - |
 |  7 | Tue, Sep 17 | [Background Images] |  |
-|  8 | Thu, Sep 19 | JS [JavaScript Syntax] | [Ecommerce Tutorial] | [Style Your Portfolio] due! |
+|  8 | Thu, Sep 19 | JS [JavaScript Syntax] | [Ecommerce Tutorial] | [Style Your Portfolio] |
 | -  | **Week 5** | - | - | - |
 |  9 | Tue, Sep 24 | [JS Intro] | - | - |
 | 10 | Thu, Sep 26 | [Event Listeners] | - | Interview Practice [Lab 3] |
