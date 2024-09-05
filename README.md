@@ -34,17 +34,17 @@ By the end of the course, you will be able to ...
 | -  | **Week 3** | - | - | - |
 |  5 | Tue, Sep 10 | [Learn Flex] | - | - |
 |  6 | Thu, Sep 12 | CSS [Grid] | - | Interview Practice [Lab 2] |
-| -  | **Week 4** | - | - | - |
+| -  | **Week 4** Javascript | - | - | - |
 |  7 | Tue, Sep 17 | [Background Images] |  |
 |  8 | Thu, Sep 19 | JS [JavaScript Syntax] | [Ecommerce Tutorial] | [Style Your Portfolio] due! |
 | -  | **Week 5** | - | - | - |
 |  9 | Tue, Sep 24 | [JS Intro] | - | - |
-| 10 | Thu, Sep 26 | JS [Event Listeners] | - | Interview Practice [Lab 3] |
+| 10 | Thu, Sep 26 | [Event Listeners] | - | Interview Practice [Lab 3] |
 | -  | **Week 6** | - | - | - |
-| 11 | Tue, Oct  1 | [JS Functions] | - | - |
+| 11 | Tue, Oct  1 | [Functions] | - | - |
 | 12 | Thu, Oct  3 | [Arrow Functions] | - | [Ecommerce Tutorial] |
 | -  | **Week 7** | - | - | - |
-| 13 | Tue, Oct  8 | [JS Objects] |  | - |
+| 13 | Tue, Oct  8 | [Objects] |  | - |
 | 14 | Thu, Oct 10 |  | - | Interview Practice [Lab 4] |
 
 ## Work to be completed
@@ -81,6 +81,7 @@ By the end of the course, you will be able to ...
 [CSS Box Model]: https://docs.google.com/presentation/d/1vu5krTw-Pcm87-yWHXaeXcq5aMmybgds_Vb-a9naQF0/edit?usp=sharing
 [Flexbox]: https://docs.google.com/presentation/d/1hljwzQACcNQFbSRdnxD0cdq31dci47GW5moZm5S8cg8/edit?usp=sharing
 [Background Images]: https://docs.google.com/presentation/d/11UNl1R1qc5qZLIPyv1MwYDOMOmkKhvOMSL-PGyu4txQ/edit?usp=sharing
+
 [JavaScript Intro]: https://docs.google.com/presentation/d/1NWNvI06x5utVlV8PBFhhIDZtrh8vNiCGC9H0zjGVTDU/edit?usp=sharing
 [JavaScript Syntax]: https://docs.google.com/presentation/d/1B6q0QxZI9tPDikUUW2JELjMKnFOT23iDrMMiJ5gLILY/edit?usp=sharing
 [JavaScript in the DOM]: https://docs.google.com/presentation/d/1FtUUrQW-1E4v3TTD5J1af66RdpyWHu4P_UBl_fMtNio/edit?usp=sharing
@@ -90,10 +91,10 @@ By the end of the course, you will be able to ...
 [JS Intro]: https://github.com/Tech-at-DU/js-practice
 
 [Event Listeners]: https://docs.google.com/presentation/d/1_MXS8tAK8gUTwoKv9aaOI6TwrZcHoB2RjcPJJ5ViDv4/edit?usp=sharing
-[JS Functions]: https://docs.google.com/presentation/d/1Hh4nPnGMC3u43C5a5mmh1xpFbuXMwt_f6_-KrCXKyRs/edit?usp=sharing
+[Functions]: https://docs.google.com/presentation/d/1Hh4nPnGMC3u43C5a5mmh1xpFbuXMwt_f6_-KrCXKyRs/edit?usp=sharing
 [Arrow Functions]: https://docs.google.com/presentation/d/111NwIZHRkkiwVpurxPmwP2hA8Hure2ku2BtRB2fWXQ8/edit?usp=sharing
 
-[JS Objects]: https://docs.google.com/presentation/d/1T1XL1xS-UscuUbLLJKrDKOD0yF_dSfkJiAfva1X_C_c/edit?usp=sharing
+[Objects]: https://docs.google.com/presentation/d/1T1XL1xS-UscuUbLLJKrDKOD0yF_dSfkJiAfva1X_C_c/edit?usp=sharing
 
 [Single Page Site Ideas]: https://docs.google.com/presentation/d/1OJmQw9LLnbGSHtlKSz3eF9EQN2q00atAkNLdU8n40e0/edit?usp=sharing
 
