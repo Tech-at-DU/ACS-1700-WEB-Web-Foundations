@@ -36,13 +36,13 @@ By the end of the course, you will be able to ...
 |  6 | Thu, Sep 12 | CSS [Grid] | - | Interview Practice [Lab 2] |
 | -  | **Week 4** Javascript | - | - | - |
 |  7 | Tue, Sep 17 | [Background Images] | [Ecommerce Tutorial] | [Style Your Portfolio] |
-|  8 | Thu, Sep 19 | JS [JavaScript Syntax] | - | - |
+|  8 | Thu, Sep 19 | [JavaScript Syntax] | - | - |
 | -  | **Week 5** | - | - | - |
-|  9 | Tue, Sep 24 | [JS Intro] | - | - |
-| 10 | Thu, Sep 26 | [Event Listeners] | - | Interview Practice [Lab 3] |
+|  9 | Tue, Sep 24 | [Event Listeners] | - | - |
+| 10 | Thu, Sep 26 | [Functions] | - | Interview Practice [Lab 3] |
 | -  | **Week 6** | - | - | - |
-| 11 | Tue, Oct  1 | [Functions] | - | - |
-| 12 | Thu, Oct  3 | [Arrow Functions] | - | [Ecommerce Tutorial] |
+| 11 | Tue, Oct  1 | [Arrow Functions] | - | - |
+| 12 | Thu, Oct  3 |  | - | [Ecommerce Tutorial] |
 | -  | **Week 7** | - | - | - |
 | 13 | Tue, Oct  8 | [Objects] |  | - |
 | 14 | Thu, Oct 10 |  | - | Interview Practice [Lab 4] |
@@ -65,10 +65,16 @@ By the end of the course, you will be able to ...
   - [Flex Box Challenges](https://github.com/soggybag/learn-css-flex-box) (find this on slide 37 of [CSS Box Model])
   - [Flex Box Practice](https://github.com/Tech-at-DU/flex-box-practice) (find this on slide 6 of [Grid])
   - [CSS Grid Layout](https://github.com/soggybag/CSS-Layout-with-Grid) (find this on slide 25 of [Grid])
-- Week 4 - 
-  - [Style Your Portfolio] Submit this to Gradescope.com
   - [Lab 2] Practice your CSS skills
+- Week 4 - 
+  - [Explore Background Images](https://tech-at-du.github.io/ACS-1700-Web-Foundations/background-image.html)
+  - [Grid and Flex Challenge](https://github.com/Tech-at-DU/ACS-1700-Web-Foundations/blob/master/Lessons/03-lab.md) - Make this website for Finland!
+  - [Style Your Portfolio] Submit this to Gradescope.com
+  - [Ecommerce Tutorial] - Start this tutorial
+  - [JavaScript Practice](https://github.com/Tech-at-DU/js-practice) (find this on slide 11 and 17 of [JavaScript Syntax]) 
+- Week 5 - JavaScript
   - 
+
 
 
 <!-- Lessons -->
