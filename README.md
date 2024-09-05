@@ -29,14 +29,14 @@ By the end of the course, you will be able to ...
 |  1 | Tue, Aug 27 | HTML [Semantic HTML] | [Portfolio Part 1: Semantic Markup] | - |
 |  2 | Thu, Aug 29 | HTML [HTML Attributes] | Continue portfolio | - |
 | -  | **Week 2** CSS | - | - | - |
-|  3 | Tue, Sep  3 | [CSS Intro] | Validate Portfolio | Interview Practice [Lab 1]  | 
+|  3 | Tue, Sep  3 | [CSS Intro] | [Validate your Portfolio] | Interview Practice [Lab 1]  | 
 |  4 | Thu, Sep  5 | [CSS Box Model] | [Style Your Portfolio] | - |
 | -  | **Week 3** | - | - | - |
 |  5 | Tue, Sep 10 | [Learn Flex] | - | - |
 |  6 | Thu, Sep 12 | CSS [Grid] | - | Interview Practice [Lab 2] |
 | -  | **Week 4** Javascript | - | - | - |
-|  7 | Tue, Sep 17 | [Background Images] |  |
-|  8 | Thu, Sep 19 | JS [JavaScript Syntax] | [Ecommerce Tutorial] | [Style Your Portfolio] |
+|  7 | Tue, Sep 17 | [Background Images] | [Ecommerce Tutorial] | [Style Your Portfolio] |
+|  8 | Thu, Sep 19 | JS [JavaScript Syntax] | - | - |
 | -  | **Week 5** | - | - | - |
 |  9 | Tue, Sep 24 | [JS Intro] | - | - |
 | 10 | Thu, Sep 26 | [Event Listeners] | - | Interview Practice [Lab 3] |
@@ -59,13 +59,16 @@ By the end of the course, you will be able to ...
   - [Beginning CSS Challenges](https://github.com/Tech-at-DU/CSS-Challenges) (find this on slide 21 of [CSS Intro])
   - [CSS Diner](https://flukeout.github.io) Learn about CSS Selectors by playing this game. (Find this on slide 32 of [CSS Intro])
   - [Explore the box model](https://tech-at-du.github.io/ACS-1700-Web-Foundations/box-model.html) (find this on slide 9 of [CSS Box Model])
+  - [Style Your Portfolio] - start styling your portfolio
 - Week 3 - CSS
   - [Explore CSS Flex Box](https://tech-at-du.github.io/ACS-1700-Web-Foundations/flex-box.html) (find this on slide 37 of [CSS Box Model])
   - [Flex Box Challenges](https://github.com/soggybag/learn-css-flex-box) (find this on slide 37 of [CSS Box Model])
+  - [Flex Box Practice](https://github.com/Tech-at-DU/flex-box-practice) (find this on slide 6 of [Grid])
+  - [CSS Grid Layout](https://github.com/soggybag/CSS-Layout-with-Grid) (find this on slide 25 of [Grid])
 - Week 4 - 
-- [Style Your Portfolio] Submit this to Gradescope.com
-- [Lab 2] Practice your CSS skills
-- 
+  - [Style Your Portfolio] Submit this to Gradescope.com
+  - [Lab 2] Practice your CSS skills
+  - 
 
 
 <!-- Lessons -->
@@ -89,6 +92,8 @@ By the end of the course, you will be able to ...
 <!-- [Review / Lab]: https://docs.google.com/presentation/d/1_MXS8tAK8gUTwoKv9aaOI6TwrZcHoB2RjcPJJ5ViDv4/edit?usp=sharing -->
 
 [JS Intro]: https://github.com/Tech-at-DU/js-practice
+
+[Validate your Portfolio]: https://validator.w3.org
 
 [Event Listeners]: https://docs.google.com/presentation/d/1_MXS8tAK8gUTwoKv9aaOI6TwrZcHoB2RjcPJJ5ViDv4/edit?usp=sharing
 [Functions]: https://docs.google.com/presentation/d/1Hh4nPnGMC3u43C5a5mmh1xpFbuXMwt_f6_-KrCXKyRs/edit?usp=sharing
