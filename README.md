@@ -93,7 +93,6 @@ Tutorial Projects
 
 <!-- Tutorials -->
 [Flash Cards Tutorial]: https://github.com/Tech-at-DU/flash-cards-tutorial
-[]:
 [Single Page Example]: https://github.com/Tech-at-DU/single-page-starter
 
 <!-- Lessons -->
