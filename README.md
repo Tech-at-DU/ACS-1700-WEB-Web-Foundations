@@ -32,7 +32,7 @@ By the end of the course, you will be able to ...
 |  3 | Tue, Sep  3 | [CSS Intro] | [Validate your Portfolio] | Interview Practice [Lab 1]  | 
 |  4 | Thu, Sep  5 | [CSS Box Model] | [Style Your Portfolio] | - |
 | -  | **Week 3** | - | - | - |
-|  5 | Tue, Sep 10 | [Learn Flex] | - | - |
+|  5 | Tue, Sep 10 | [Learn Flex], [Single Page Example]| - | - |
 |  6 | Thu, Sep 12 | CSS [Grid] | - | Interview Practice [Lab 2] |
 | -  | **Week 4** Javascript | - | - | - |
 |  7 | Tue, Sep 17 | [Background Images] | [Ecommerce Tutorial] | [Style Your Portfolio] |
@@ -92,11 +92,10 @@ Tutorial Projects
 
  -->
 
-
-
 <!-- Tutorials -->
 [Flash Cards Tutorial]: https://github.com/Tech-at-DU/flash-cards-tutorial
 []:
+[Single Page Example]: https://github.com/Tech-at-DU/single-page-starter
 
 <!-- Lessons -->
 [Semantic HTML]: https://docs.google.com/presentation/d/1WEp028oiQTRA9Euz9owhxgvgQbXF3wFSR48Qdskcbns/edit?usp=sharing
