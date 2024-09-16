@@ -79,7 +79,6 @@ By the end of the course, you will be able to ...
   - [Custom Calculator] Submit this to gradescope.com
 - Week 6 - Arrow Functions
   - [JS Functions Lab 2](https://github.com/Tech-at-DU/js-functions-2/tree/main) (find this on slide 35 of [Arrow Functions])
-  - 
 
 <!-- 
 
