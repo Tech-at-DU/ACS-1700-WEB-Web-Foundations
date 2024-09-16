@@ -35,16 +35,16 @@ By the end of the course, you will be able to ...
 |  5 | Tue, Sep 10 | [Learn Flex], [Single Page Example]| - | - |
 |  6 | Thu, Sep 12 | CSS [Grid] | - | Interview Practice [Lab 2] |
 | -  | **Week 4** Javascript | - | - | - |
-|  7 | Tue, Sep 17 | [Background Images] | [Ecommerce Tutorial] | [Style Your Portfolio] |
-|  8 | Thu, Sep 19 | [JavaScript Syntax] | - | - |
+|  7 | Tue, Sep 17 | [Background Images] | [Grid and Flex Challenge]  | [Style Your Portfolio] |
+|  8 | Thu, Sep 19 | [JavaScript Syntax] | [Flashcards Tutorial] | - |
 | -  | **Week 5** | - | - | Interview Practice [Lab 3] |
-|  9 | Tue, Sep 24 | [Functions] | - | - |
-| 10 | Thu, Sep 26 | [Event Listeners] | - | - |
+|  9 | Tue, Sep 24 | [Functions] | - | [Flashcards Tutorial] |
+| 10 | Thu, Sep 26 | [Event Listeners] | [Custom Calculator] | - |
 | -  | **Week 6** | - | - | - |
-| 11 | Tue, Oct  1 | [Arrow Functions] | - | - |
-| 12 | Thu, Oct  3 |  | - | [Ecommerce Tutorial] |
+| 11 | Tue, Oct  1 | [Arrow Functions] | [Ecommerce Tutorial] | - |
+| 12 | Thu, Oct  3 |  | Lab Day | - |
 | -  | **Week 7** | - | - | - |
-| 13 | Tue, Oct  8 | [Objects] |  | - |
+| 13 | Tue, Oct  8 | [Objects] | - | [Ecommerce Tutorial]  |
 | 14 | Thu, Oct 10 |  | - |  |
 
 ## Work to be completed
@@ -66,15 +66,14 @@ By the end of the course, you will be able to ...
   - [Flex Box Practice](https://github.com/Tech-at-DU/flex-box-practice) (find this on slide 6 of [Grid])
   - [CSS Grid Layout](https://github.com/soggybag/CSS-Layout-with-Grid) (find this on slide 25 of [Grid])
   - [Lab 2] Practice your CSS skills
-- Week 4 - 
+- Week 4 - CSS Background images, JavaScript Intro
   - [Explore Background Images](https://tech-at-du.github.io/ACS-1700-Web-Foundations/background-image.html)
-  - [Grid and Flex Challenge](https://github.com/Tech-at-DU/ACS-1700-Web-Foundations/blob/master/Lessons/03-lab.md) - Make this website for Finland!
+  - [Grid and Flex Challenge] - Make this website for Finland!
   - [Style Your Portfolio] Submit this to Gradescope.com
-  - [Ecommerce Tutorial] - Start this tutorial
   - [JavaScript Practice](https://github.com/Tech-at-DU/js-practice) (find this on slide 11 and 17 of [JavaScript Syntax]) 
+  - [Flashcards Tutorial] - Start this tutorial
 - Week 5 - JavaScript
   - [JS functions Lab](https://github.com/Tech-at-DU/js-functions) (find this on slide 16 of [Functions])
-  - 
   - [Event Listener example](https://tech-at-du.github.io/ACS-1700-Web-Foundations/events.html) (find this on slide 12 of [Event Listeners])
   - [Lab 4] - Build the time to water app (find this on slide 20 of [Event Listeners])
   - [Custom Calculator] Submit this to gradescope.com
@@ -103,6 +102,9 @@ Tutorial Projects
 [Grid]: https://docs.google.com/presentation/d/1FpgIKHFytKsZ2IUO3RXTcb5Ep8lptrerVKOEfaaA2UY/edit?usp=sharing
 
 [Single Page Website]: https://docs.google.com/presentation/d/1QQ_dOtn_O3E0PVS28Yg7MG0hz6fETo6diYt6hMBYfUI/edit?usp=sharing
+
+[Grid and Flex Challenge]: https://github.com/Tech-at-DU/ACS-1700-Web-Foundations/blob/master/Lessons/03-lab.md
+[Flashcards Tutorial]: https://github.com/Tech-at-DU/flash-cards-tutorial
 
 <!-- Use this somewhere... -->
 [Forms & the DOM]: https://docs.google.com/presentation/d/1Z1Q4r6Kw9Ph34k3W2BNee_akYsH-HKVeH6BK4er2M7g/edit?usp=sharing
