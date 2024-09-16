@@ -37,15 +37,15 @@ By the end of the course, you will be able to ...
 | -  | **Week 4** Javascript | - | - | - |
 |  7 | Tue, Sep 17 | [Background Images] | [Ecommerce Tutorial] | [Style Your Portfolio] |
 |  8 | Thu, Sep 19 | [JavaScript Syntax] | - | - |
-| -  | **Week 5** | - | - | - |
-|  9 | Tue, Sep 24 | [Event Listeners] | - | - |
-| 10 | Thu, Sep 26 | [Functions] | - | Interview Practice [Lab 3] |
+| -  | **Week 5** | - | - | Interview Practice [Lab 3] |
+|  9 | Tue, Sep 24 | [Functions] | - | - |
+| 10 | Thu, Sep 26 | [Event Listeners] | - | - |
 | -  | **Week 6** | - | - | - |
 | 11 | Tue, Oct  1 | [Arrow Functions] | - | - |
 | 12 | Thu, Oct  3 |  | - | [Ecommerce Tutorial] |
 | -  | **Week 7** | - | - | - |
 | 13 | Tue, Oct  8 | [Objects] |  | - |
-| 14 | Thu, Oct 10 |  | - | Interview Practice [Lab 4] |
+| 14 | Thu, Oct 10 |  | - |  |
 
 ## Work to be completed
 
@@ -73,9 +73,30 @@ By the end of the course, you will be able to ...
   - [Ecommerce Tutorial] - Start this tutorial
   - [JavaScript Practice](https://github.com/Tech-at-DU/js-practice) (find this on slide 11 and 17 of [JavaScript Syntax]) 
 - Week 5 - JavaScript
+  - [JS functions Lab](https://github.com/Tech-at-DU/js-functions) (find this on slide 16 of [Functions])
+  - 
+  - [Event Listener example](https://tech-at-du.github.io/ACS-1700-Web-Foundations/events.html) (find this on slide 12 of [Event Listeners])
+  - [Lab 4] - Build the time to water app (find this on slide 20 of [Event Listeners])
+  - [Custom Calculator] Submit this to gradescope.com
+- Week 6 - Arrow Functions
+  - [JS Functions Lab 2](https://github.com/Tech-at-DU/js-functions-2/tree/main) (find this on slide 35 of [Arrow Functions])
   - 
 
+<!-- 
 
+Tutorial Projects 
+1. Ecommerce Tutorial
+1. Flash Cards
+1. Weather App Tutorial
+1. single page starter
+
+ -->
+
+
+
+<!-- Tutorials -->
+[Flash Cards Tutorial]: https://github.com/Tech-at-DU/flash-cards-tutorial
+[]:
 
 <!-- Lessons -->
 [Semantic HTML]: https://docs.google.com/presentation/d/1WEp028oiQTRA9Euz9owhxgvgQbXF3wFSR48Qdskcbns/edit?usp=sharing
